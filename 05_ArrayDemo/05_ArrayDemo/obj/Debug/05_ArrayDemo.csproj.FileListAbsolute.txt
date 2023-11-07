@@ -1,0 +1,7 @@
+D:\C Sharp\05_ArrayDemo\05_ArrayDemo\bin\Debug\05_ArrayDemo.exe.config
+D:\C Sharp\05_ArrayDemo\05_ArrayDemo\bin\Debug\05_ArrayDemo.exe
+D:\C Sharp\05_ArrayDemo\05_ArrayDemo\bin\Debug\05_ArrayDemo.pdb
+D:\C Sharp\05_ArrayDemo\05_ArrayDemo\obj\Debug\05_ArrayDemo.csproj.AssemblyReference.cache
+D:\C Sharp\05_ArrayDemo\05_ArrayDemo\obj\Debug\05_ArrayDemo.csproj.CoreCompileInputs.cache
+D:\C Sharp\05_ArrayDemo\05_ArrayDemo\obj\Debug\05_ArrayDemo.exe
+D:\C Sharp\05_ArrayDemo\05_ArrayDemo\obj\Debug\05_ArrayDemo.pdb

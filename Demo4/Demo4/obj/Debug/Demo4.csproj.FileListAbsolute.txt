@@ -1,0 +1,7 @@
+D:\C Sharp\Demo4\Demo4\bin\Debug\Demo4.exe.config
+D:\C Sharp\Demo4\Demo4\bin\Debug\Demo4.exe
+D:\C Sharp\Demo4\Demo4\bin\Debug\Demo4.pdb
+D:\C Sharp\Demo4\Demo4\obj\Debug\Demo4.csproj.AssemblyReference.cache
+D:\C Sharp\Demo4\Demo4\obj\Debug\Demo4.csproj.CoreCompileInputs.cache
+D:\C Sharp\Demo4\Demo4\obj\Debug\Demo4.exe
+D:\C Sharp\Demo4\Demo4\obj\Debug\Demo4.pdb

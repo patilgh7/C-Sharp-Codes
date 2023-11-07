@@ -1,0 +1,7 @@
+D:\C Sharp\11-ForEachDemo\11-ForEachDemo\bin\Debug\11-ForEachDemo.exe.config
+D:\C Sharp\11-ForEachDemo\11-ForEachDemo\bin\Debug\11-ForEachDemo.exe
+D:\C Sharp\11-ForEachDemo\11-ForEachDemo\bin\Debug\11-ForEachDemo.pdb
+D:\C Sharp\11-ForEachDemo\11-ForEachDemo\obj\Debug\11-ForEachDemo.csproj.AssemblyReference.cache
+D:\C Sharp\11-ForEachDemo\11-ForEachDemo\obj\Debug\11-ForEachDemo.csproj.CoreCompileInputs.cache
+D:\C Sharp\11-ForEachDemo\11-ForEachDemo\obj\Debug\11-ForEachDemo.exe
+D:\C Sharp\11-ForEachDemo\11-ForEachDemo\obj\Debug\11-ForEachDemo.pdb

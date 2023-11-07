@@ -1,0 +1,7 @@
+D:\C Sharp\02_DataTypes\02_DataTypes\bin\Debug\02_DataTypes.exe.config
+D:\C Sharp\02_DataTypes\02_DataTypes\bin\Debug\02_DataTypes.exe
+D:\C Sharp\02_DataTypes\02_DataTypes\bin\Debug\02_DataTypes.pdb
+D:\C Sharp\02_DataTypes\02_DataTypes\obj\Debug\02_DataTypes.csproj.AssemblyReference.cache
+D:\C Sharp\02_DataTypes\02_DataTypes\obj\Debug\02_DataTypes.csproj.CoreCompileInputs.cache
+D:\C Sharp\02_DataTypes\02_DataTypes\obj\Debug\02_DataTypes.exe
+D:\C Sharp\02_DataTypes\02_DataTypes\obj\Debug\02_DataTypes.pdb

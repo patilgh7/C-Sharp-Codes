@@ -1,0 +1,7 @@
+D:\C Sharp\45-Internal And Protected Internal Access Modifiers\InternalAccessModifier_45\bin\Debug\InternalAccessModifier_45.exe.config
+D:\C Sharp\45-Internal And Protected Internal Access Modifiers\InternalAccessModifier_45\bin\Debug\InternalAccessModifier_45.exe
+D:\C Sharp\45-Internal And Protected Internal Access Modifiers\InternalAccessModifier_45\bin\Debug\InternalAccessModifier_45.pdb
+D:\C Sharp\45-Internal And Protected Internal Access Modifiers\InternalAccessModifier_45\obj\Debug\InternalAccessModifier_45.csproj.AssemblyReference.cache
+D:\C Sharp\45-Internal And Protected Internal Access Modifiers\InternalAccessModifier_45\obj\Debug\InternalAccessModifier_45.csproj.CoreCompileInputs.cache
+D:\C Sharp\45-Internal And Protected Internal Access Modifiers\InternalAccessModifier_45\obj\Debug\InternalAccessModifier_45.exe
+D:\C Sharp\45-Internal And Protected Internal Access Modifiers\InternalAccessModifier_45\obj\Debug\InternalAccessModifier_45.pdb

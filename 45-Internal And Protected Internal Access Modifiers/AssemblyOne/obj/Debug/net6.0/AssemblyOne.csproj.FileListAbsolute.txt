@@ -1,0 +1,11 @@
+D:\C Sharp\45-Internal And Protected Internal Access Modifiers\AssemblyOne\bin\Debug\net6.0\AssemblyOne.deps.json
+D:\C Sharp\45-Internal And Protected Internal Access Modifiers\AssemblyOne\bin\Debug\net6.0\AssemblyOne.dll
+D:\C Sharp\45-Internal And Protected Internal Access Modifiers\AssemblyOne\bin\Debug\net6.0\AssemblyOne.pdb
+D:\C Sharp\45-Internal And Protected Internal Access Modifiers\AssemblyOne\obj\Debug\net6.0\AssemblyOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\45-Internal And Protected Internal Access Modifiers\AssemblyOne\obj\Debug\net6.0\AssemblyOne.AssemblyInfoInputs.cache
+D:\C Sharp\45-Internal And Protected Internal Access Modifiers\AssemblyOne\obj\Debug\net6.0\AssemblyOne.AssemblyInfo.cs
+D:\C Sharp\45-Internal And Protected Internal Access Modifiers\AssemblyOne\obj\Debug\net6.0\AssemblyOne.csproj.CoreCompileInputs.cache
+D:\C Sharp\45-Internal And Protected Internal Access Modifiers\AssemblyOne\obj\Debug\net6.0\AssemblyOne.dll
+D:\C Sharp\45-Internal And Protected Internal Access Modifiers\AssemblyOne\obj\Debug\net6.0\refint\AssemblyOne.dll
+D:\C Sharp\45-Internal And Protected Internal Access Modifiers\AssemblyOne\obj\Debug\net6.0\AssemblyOne.pdb
+D:\C Sharp\45-Internal And Protected Internal Access Modifiers\AssemblyOne\obj\Debug\net6.0\ref\AssemblyOne.dll
