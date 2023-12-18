@@ -1,0 +1,7 @@
+D:\C Sharp\65-Methods of dictionary class\DictionaryClassMethods\bin\Debug\DictionaryClassMethods.exe.config
+D:\C Sharp\65-Methods of dictionary class\DictionaryClassMethods\bin\Debug\DictionaryClassMethods.exe
+D:\C Sharp\65-Methods of dictionary class\DictionaryClassMethods\bin\Debug\DictionaryClassMethods.pdb
+D:\C Sharp\65-Methods of dictionary class\DictionaryClassMethods\obj\Debug\DictionaryClassMethods.csproj.AssemblyReference.cache
+D:\C Sharp\65-Methods of dictionary class\DictionaryClassMethods\obj\Debug\DictionaryClassMethods.csproj.CoreCompileInputs.cache
+D:\C Sharp\65-Methods of dictionary class\DictionaryClassMethods\obj\Debug\DictionaryClassMethods.exe
+D:\C Sharp\65-Methods of dictionary class\DictionaryClassMethods\obj\Debug\DictionaryClassMethods.pdb

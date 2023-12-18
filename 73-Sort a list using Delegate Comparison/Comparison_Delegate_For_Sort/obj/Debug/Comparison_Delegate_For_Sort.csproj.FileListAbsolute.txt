@@ -1,0 +1,7 @@
+D:\C Sharp\73-Sort a list using Delegate Comparison\Comparison_Delegate_For_Sort\bin\Debug\Comparison_Delegate_For_Sort.exe.config
+D:\C Sharp\73-Sort a list using Delegate Comparison\Comparison_Delegate_For_Sort\bin\Debug\Comparison_Delegate_For_Sort.exe
+D:\C Sharp\73-Sort a list using Delegate Comparison\Comparison_Delegate_For_Sort\bin\Debug\Comparison_Delegate_For_Sort.pdb
+D:\C Sharp\73-Sort a list using Delegate Comparison\Comparison_Delegate_For_Sort\obj\Debug\Comparison_Delegate_For_Sort.csproj.AssemblyReference.cache
+D:\C Sharp\73-Sort a list using Delegate Comparison\Comparison_Delegate_For_Sort\obj\Debug\Comparison_Delegate_For_Sort.csproj.CoreCompileInputs.cache
+D:\C Sharp\73-Sort a list using Delegate Comparison\Comparison_Delegate_For_Sort\obj\Debug\Comparison_Delegate_For_Sort.exe
+D:\C Sharp\73-Sort a list using Delegate Comparison\Comparison_Delegate_For_Sort\obj\Debug\Comparison_Delegate_For_Sort.pdb

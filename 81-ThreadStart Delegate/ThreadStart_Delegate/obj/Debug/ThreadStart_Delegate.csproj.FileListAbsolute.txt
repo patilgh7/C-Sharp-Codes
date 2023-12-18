@@ -1,0 +1,7 @@
+D:\C Sharp\81-ThreadStart Delegate\ThreadStart_Delegate\bin\Debug\ThreadStart_Delegate.exe.config
+D:\C Sharp\81-ThreadStart Delegate\ThreadStart_Delegate\bin\Debug\ThreadStart_Delegate.exe
+D:\C Sharp\81-ThreadStart Delegate\ThreadStart_Delegate\bin\Debug\ThreadStart_Delegate.pdb
+D:\C Sharp\81-ThreadStart Delegate\ThreadStart_Delegate\obj\Debug\ThreadStart_Delegate.csproj.AssemblyReference.cache
+D:\C Sharp\81-ThreadStart Delegate\ThreadStart_Delegate\obj\Debug\ThreadStart_Delegate.csproj.CoreCompileInputs.cache
+D:\C Sharp\81-ThreadStart Delegate\ThreadStart_Delegate\obj\Debug\ThreadStart_Delegate.exe
+D:\C Sharp\81-ThreadStart Delegate\ThreadStart_Delegate\obj\Debug\ThreadStart_Delegate.pdb

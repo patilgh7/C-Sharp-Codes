@@ -1,0 +1,7 @@
+D:\C Sharp\75-When to use dictionary over list\DictionaryOverList\obj\Debug\DictionaryOverList.csproj.AssemblyReference.cache
+D:\C Sharp\75-When to use dictionary over list\DictionaryOverList\obj\Debug\DictionaryOverList.csproj.CoreCompileInputs.cache
+D:\C Sharp\75-When to use dictionary over list\DictionaryOverList\bin\Debug\DictionaryOverList.exe.config
+D:\C Sharp\75-When to use dictionary over list\DictionaryOverList\bin\Debug\DictionaryOverList.exe
+D:\C Sharp\75-When to use dictionary over list\DictionaryOverList\bin\Debug\DictionaryOverList.pdb
+D:\C Sharp\75-When to use dictionary over list\DictionaryOverList\obj\Debug\DictionaryOverList.exe
+D:\C Sharp\75-When to use dictionary over list\DictionaryOverList\obj\Debug\DictionaryOverList.pdb

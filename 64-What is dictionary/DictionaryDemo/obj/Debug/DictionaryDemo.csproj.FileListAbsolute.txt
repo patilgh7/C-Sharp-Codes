@@ -1,0 +1,7 @@
+D:\C Sharp\64-What is dictionary\DictionaryDemo\bin\Debug\DictionaryDemo.exe.config
+D:\C Sharp\64-What is dictionary\DictionaryDemo\bin\Debug\DictionaryDemo.exe
+D:\C Sharp\64-What is dictionary\DictionaryDemo\bin\Debug\DictionaryDemo.pdb
+D:\C Sharp\64-What is dictionary\DictionaryDemo\obj\Debug\DictionaryDemo.csproj.AssemblyReference.cache
+D:\C Sharp\64-What is dictionary\DictionaryDemo\obj\Debug\DictionaryDemo.csproj.CoreCompileInputs.cache
+D:\C Sharp\64-What is dictionary\DictionaryDemo\obj\Debug\DictionaryDemo.exe
+D:\C Sharp\64-What is dictionary\DictionaryDemo\obj\Debug\DictionaryDemo.pdb

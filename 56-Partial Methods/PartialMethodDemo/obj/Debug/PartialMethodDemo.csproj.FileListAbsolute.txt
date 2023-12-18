@@ -1,0 +1,7 @@
+D:\C Sharp\56-Partial Methods\PartialMethodDemo\bin\Debug\PartialMethodDemo.exe.config
+D:\C Sharp\56-Partial Methods\PartialMethodDemo\bin\Debug\PartialMethodDemo.exe
+D:\C Sharp\56-Partial Methods\PartialMethodDemo\bin\Debug\PartialMethodDemo.pdb
+D:\C Sharp\56-Partial Methods\PartialMethodDemo\obj\Debug\PartialMethodDemo.csproj.AssemblyReference.cache
+D:\C Sharp\56-Partial Methods\PartialMethodDemo\obj\Debug\PartialMethodDemo.csproj.CoreCompileInputs.cache
+D:\C Sharp\56-Partial Methods\PartialMethodDemo\obj\Debug\PartialMethodDemo.exe
+D:\C Sharp\56-Partial Methods\PartialMethodDemo\obj\Debug\PartialMethodDemo.pdb

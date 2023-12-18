@@ -1,0 +1,7 @@
+D:\C Sharp\71-Sort a list of complex types\Sort_A_Compex_Type_List\bin\Debug\Sort_A_Compex_Type_List.exe.config
+D:\C Sharp\71-Sort a list of complex types\Sort_A_Compex_Type_List\bin\Debug\Sort_A_Compex_Type_List.exe
+D:\C Sharp\71-Sort a list of complex types\Sort_A_Compex_Type_List\bin\Debug\Sort_A_Compex_Type_List.pdb
+D:\C Sharp\71-Sort a list of complex types\Sort_A_Compex_Type_List\obj\Debug\Sort_A_Compex_Type_List.csproj.AssemblyReference.cache
+D:\C Sharp\71-Sort a list of complex types\Sort_A_Compex_Type_List\obj\Debug\Sort_A_Compex_Type_List.csproj.CoreCompileInputs.cache
+D:\C Sharp\71-Sort a list of complex types\Sort_A_Compex_Type_List\obj\Debug\Sort_A_Compex_Type_List.exe
+D:\C Sharp\71-Sort a list of complex types\Sort_A_Compex_Type_List\obj\Debug\Sort_A_Compex_Type_List.pdb

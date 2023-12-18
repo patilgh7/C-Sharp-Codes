@@ -1,0 +1,7 @@
+D:\C Sharp\69-Generic list class and ranges\GenericListClassRanges\bin\Debug\GenericListClassRanges.exe.config
+D:\C Sharp\69-Generic list class and ranges\GenericListClassRanges\bin\Debug\GenericListClassRanges.exe
+D:\C Sharp\69-Generic list class and ranges\GenericListClassRanges\bin\Debug\GenericListClassRanges.pdb
+D:\C Sharp\69-Generic list class and ranges\GenericListClassRanges\obj\Debug\GenericListClassRanges.csproj.AssemblyReference.cache
+D:\C Sharp\69-Generic list class and ranges\GenericListClassRanges\obj\Debug\GenericListClassRanges.csproj.CoreCompileInputs.cache
+D:\C Sharp\69-Generic list class and ranges\GenericListClassRanges\obj\Debug\GenericListClassRanges.exe
+D:\C Sharp\69-Generic list class and ranges\GenericListClassRanges\obj\Debug\GenericListClassRanges.pdb

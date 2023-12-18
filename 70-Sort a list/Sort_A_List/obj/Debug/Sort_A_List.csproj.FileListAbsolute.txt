@@ -1,0 +1,7 @@
+D:\C Sharp\70-Sort a list\Sort_A_List\bin\Debug\Sort_A_List.exe.config
+D:\C Sharp\70-Sort a list\Sort_A_List\bin\Debug\Sort_A_List.exe
+D:\C Sharp\70-Sort a list\Sort_A_List\bin\Debug\Sort_A_List.pdb
+D:\C Sharp\70-Sort a list\Sort_A_List\obj\Debug\Sort_A_List.csproj.AssemblyReference.cache
+D:\C Sharp\70-Sort a list\Sort_A_List\obj\Debug\Sort_A_List.csproj.CoreCompileInputs.cache
+D:\C Sharp\70-Sort a list\Sort_A_List\obj\Debug\Sort_A_List.exe
+D:\C Sharp\70-Sort a list\Sort_A_List\obj\Debug\Sort_A_List.pdb

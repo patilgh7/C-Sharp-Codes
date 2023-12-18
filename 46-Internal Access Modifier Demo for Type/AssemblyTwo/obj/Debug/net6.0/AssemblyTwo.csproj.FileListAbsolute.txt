@@ -1,0 +1,15 @@
+D:\C Sharp\46-Internal Access Modifier Demo for Type\AssemblyTwo\bin\Debug\net6.0\AssemblyTwo.deps.json
+D:\C Sharp\46-Internal Access Modifier Demo for Type\AssemblyTwo\bin\Debug\net6.0\AssemblyTwo.dll
+D:\C Sharp\46-Internal Access Modifier Demo for Type\AssemblyTwo\bin\Debug\net6.0\AssemblyTwo.pdb
+D:\C Sharp\46-Internal Access Modifier Demo for Type\AssemblyTwo\obj\Debug\net6.0\AssemblyTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\46-Internal Access Modifier Demo for Type\AssemblyTwo\obj\Debug\net6.0\AssemblyTwo.AssemblyInfoInputs.cache
+D:\C Sharp\46-Internal Access Modifier Demo for Type\AssemblyTwo\obj\Debug\net6.0\AssemblyTwo.AssemblyInfo.cs
+D:\C Sharp\46-Internal Access Modifier Demo for Type\AssemblyTwo\obj\Debug\net6.0\AssemblyTwo.csproj.CoreCompileInputs.cache
+D:\C Sharp\46-Internal Access Modifier Demo for Type\AssemblyTwo\obj\Debug\net6.0\AssemblyTwo.dll
+D:\C Sharp\46-Internal Access Modifier Demo for Type\AssemblyTwo\obj\Debug\net6.0\refint\AssemblyTwo.dll
+D:\C Sharp\46-Internal Access Modifier Demo for Type\AssemblyTwo\obj\Debug\net6.0\AssemblyTwo.pdb
+D:\C Sharp\46-Internal Access Modifier Demo for Type\AssemblyTwo\obj\Debug\net6.0\ref\AssemblyTwo.dll
+D:\C Sharp\46-Internal Access Modifier Demo for Type\AssemblyTwo\bin\Debug\net6.0\AssemblyOne.dll
+D:\C Sharp\46-Internal Access Modifier Demo for Type\AssemblyTwo\bin\Debug\net6.0\AssemblyOne.pdb
+D:\C Sharp\46-Internal Access Modifier Demo for Type\AssemblyTwo\obj\Debug\net6.0\AssemblyTwo.csproj.AssemblyReference.cache
+D:\C Sharp\46-Internal Access Modifier Demo for Type\AssemblyTwo\obj\Debug\net6.0\AssemblyTwo.csproj.CopyComplete

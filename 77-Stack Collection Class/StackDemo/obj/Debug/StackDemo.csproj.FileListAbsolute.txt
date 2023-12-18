@@ -1,0 +1,7 @@
+D:\C Sharp\77-Stack Collection Class\StackDemo\bin\Debug\StackDemo.exe.config
+D:\C Sharp\77-Stack Collection Class\StackDemo\bin\Debug\StackDemo.exe
+D:\C Sharp\77-Stack Collection Class\StackDemo\bin\Debug\StackDemo.pdb
+D:\C Sharp\77-Stack Collection Class\StackDemo\obj\Debug\StackDemo.csproj.AssemblyReference.cache
+D:\C Sharp\77-Stack Collection Class\StackDemo\obj\Debug\StackDemo.csproj.CoreCompileInputs.cache
+D:\C Sharp\77-Stack Collection Class\StackDemo\obj\Debug\StackDemo.exe
+D:\C Sharp\77-Stack Collection Class\StackDemo\obj\Debug\StackDemo.pdb

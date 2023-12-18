@@ -1,0 +1,7 @@
+D:\C Sharp\48-Reflection\Reflection_48\bin\Debug\Reflection_48.exe.config
+D:\C Sharp\48-Reflection\Reflection_48\bin\Debug\Reflection_48.exe
+D:\C Sharp\48-Reflection\Reflection_48\bin\Debug\Reflection_48.pdb
+D:\C Sharp\48-Reflection\Reflection_48\obj\Debug\Reflection_48.csproj.AssemblyReference.cache
+D:\C Sharp\48-Reflection\Reflection_48\obj\Debug\Reflection_48.csproj.CoreCompileInputs.cache
+D:\C Sharp\48-Reflection\Reflection_48\obj\Debug\Reflection_48.exe
+D:\C Sharp\48-Reflection\Reflection_48\obj\Debug\Reflection_48.pdb

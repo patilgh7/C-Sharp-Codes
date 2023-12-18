@@ -1,0 +1,7 @@
+D:\C Sharp\83-Passing data to the Thread function in type safe manner\Thread_function_in_type_safe_manner\bin\Debug\Thread_function_in_type_safe_manner.exe.config
+D:\C Sharp\83-Passing data to the Thread function in type safe manner\Thread_function_in_type_safe_manner\bin\Debug\Thread_function_in_type_safe_manner.exe
+D:\C Sharp\83-Passing data to the Thread function in type safe manner\Thread_function_in_type_safe_manner\bin\Debug\Thread_function_in_type_safe_manner.pdb
+D:\C Sharp\83-Passing data to the Thread function in type safe manner\Thread_function_in_type_safe_manner\obj\Debug\Thread_function_in_type_safe_manner.csproj.AssemblyReference.cache
+D:\C Sharp\83-Passing data to the Thread function in type safe manner\Thread_function_in_type_safe_manner\obj\Debug\Thread_function_in_type_safe_manner.csproj.CoreCompileInputs.cache
+D:\C Sharp\83-Passing data to the Thread function in type safe manner\Thread_function_in_type_safe_manner\obj\Debug\Thread_function_in_type_safe_manner.exe
+D:\C Sharp\83-Passing data to the Thread function in type safe manner\Thread_function_in_type_safe_manner\obj\Debug\Thread_function_in_type_safe_manner.pdb

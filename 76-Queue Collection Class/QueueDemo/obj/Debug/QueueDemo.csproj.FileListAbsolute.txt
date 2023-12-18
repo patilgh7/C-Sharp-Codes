@@ -1,0 +1,7 @@
+D:\C Sharp\76-Queue Collection\QueueDemo\bin\Debug\QueueDemo.exe.config
+D:\C Sharp\76-Queue Collection\QueueDemo\bin\Debug\QueueDemo.exe
+D:\C Sharp\76-Queue Collection\QueueDemo\bin\Debug\QueueDemo.pdb
+D:\C Sharp\76-Queue Collection\QueueDemo\obj\Debug\QueueDemo.csproj.AssemblyReference.cache
+D:\C Sharp\76-Queue Collection\QueueDemo\obj\Debug\QueueDemo.csproj.CoreCompileInputs.cache
+D:\C Sharp\76-Queue Collection\QueueDemo\obj\Debug\QueueDemo.exe
+D:\C Sharp\76-Queue Collection\QueueDemo\obj\Debug\QueueDemo.pdb

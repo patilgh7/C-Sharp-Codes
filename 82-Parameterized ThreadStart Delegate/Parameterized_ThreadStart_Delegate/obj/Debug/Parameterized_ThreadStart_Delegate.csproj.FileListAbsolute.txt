@@ -1,0 +1,7 @@
+D:\C Sharp\82-Parameterized ThreadStart Delegate\Parameterized_ThreadStart_Delegate\bin\Debug\Parameterized_ThreadStart_Delegate.exe.config
+D:\C Sharp\82-Parameterized ThreadStart Delegate\Parameterized_ThreadStart_Delegate\bin\Debug\Parameterized_ThreadStart_Delegate.exe
+D:\C Sharp\82-Parameterized ThreadStart Delegate\Parameterized_ThreadStart_Delegate\bin\Debug\Parameterized_ThreadStart_Delegate.pdb
+D:\C Sharp\82-Parameterized ThreadStart Delegate\Parameterized_ThreadStart_Delegate\obj\Debug\Parameterized_ThreadStart_Delegate.csproj.AssemblyReference.cache
+D:\C Sharp\82-Parameterized ThreadStart Delegate\Parameterized_ThreadStart_Delegate\obj\Debug\Parameterized_ThreadStart_Delegate.csproj.CoreCompileInputs.cache
+D:\C Sharp\82-Parameterized ThreadStart Delegate\Parameterized_ThreadStart_Delegate\obj\Debug\Parameterized_ThreadStart_Delegate.exe
+D:\C Sharp\82-Parameterized ThreadStart Delegate\Parameterized_ThreadStart_Delegate\obj\Debug\Parameterized_ThreadStart_Delegate.pdb
