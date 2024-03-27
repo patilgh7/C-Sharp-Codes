@@ -1,0 +1,381 @@
+Note: jyaveli apan git init karato tyaveli master branch/ main branch tayar hote....
+	ani apan git branch Gaurav-> navin branch tayar keli ......
+	ani apan git branch Shridhar-> navin branch tayar keli ......
+	Apan master branch madhe mhanje main branch zali... ani
+	Gaurav , Shridhar ya local branch zalya....
+	jar mala Gaurav, Shridhar code master madhe merge karaycha ahe....so mi merge command deun
+	amhi doghani lihlel code tithe merge karnar
+
+Simply he apan khalil changes local repository mhnje local machine var kartoy
+
+Jar Aplyala he code apale internet var takayche ahet tar apan tyasathi Github la account kadto
+
+mkdir project : folder create kela
+cd project/ : change directory
+git init : empty folder tayar kela
+ls -a : show hidden folders (git cha hidden folder disel)
+ls .git : git folder madhle contain baghnyasathi
+touch name.txt : new file tayar karnyasathi
+git status : ya command apan names.txt file tayar keli pn
+		ti Untracked files mhanje ti red font madhe diste
+		joparyant apan add karun commit karat nahi toparyant
+		ti kunalahi disat nahi
+		simply ji file tayar keli or delete keli ti reflect hot nahi
+		tyaveli ti Untracked files dakhavate
+git add . OR git add names.txt OR git add -A  : add kela ki ti add hote (.) kel ki to folder madhlya
+				saglya files ghete kivha tumhi specifically add names.txt
+				asa nav mention karu shakta
+				track hote file add keleli git add . kela ki
+
+git commit -m "names.txt file added "  : -m mhanje message
+					 commit kelyavar file save hote ani bakichyana changes distat
+ 
+
+git branch --list : branch kuthli check karnyasathi
+
+git branch Gaurav : Navin branch tayar keli Master sodun Gaurav mhanun
+
+git checkout Gaurav : Master branch madhun Gaurav branch la switch honyasathi 
+
+vi names.txt : file madhe lihnyasathi
+
+cat names.txt : ya command je file madhe matter lihla to terminal la disto
+
+git restore --staged names.txt  : add kelynantar punha restore karaych asel
+
+git log : for checking the history
+
+rm -rf names.txt : file delete karnyasathi command
+
+add, commit ya command changes local repository madhe karatat
+
+git reset (hashcode copy) : pahili ji commit asel tyanantar chya commit remove karnyasathi
+
+git stash : simple ashi file ji backstage la rahate ani apan pahije tevha ti use karyla gheu shakto
+		(like delete keleli file recycle bin madhe ahe ani mi ti restore karu shakato)
+
+git stash pop : backstage chi manas punha pudh ya (recycle madhli file restore keli)
+
+git stash clear : backstage files delete 
+
+
+===========================================================
+
+github :
+-------
+
+github la account kada karan apan apla code globally thevanar ahe
+mhaje internet safe thevnar jas google drive apan apla data thevto 
+
+pahila account kadal github la patilgh7@gmail.com
+username : patilgh7
+
+Create Repository kel nav dil : My Work
+Punha Create Repository kel nav dil : Codes
+
+code push karnyasthi command :
+
+ push an existing repository from the command line
+
+khalil command local machine var (master) la thevunach push karaychya
+
+git remote add origin https://github.com/patilgh7/Codes.git
+git branch -M main
+git push -u origin main
+
+jevdya repository banvel tashya tyachya url tayar hotat like apan
+Codes hi Repository tayar keli tyachi url :
+https://github.com/patilgh7/Codes.git
+
+git push:
+local repository ->> remote
+local machine to ->> globally
+
+git pull:
+remote to ->> local repository
+globally to ->> local machine
+
+
+data pull sathi command :
+
+jya folder data pull karaycha tyacha path dya cmd var ani khalil command dya :
+
+git clone https://github.com/patilgh7/Codes.git
+
+
+
+local branch delete karnyasathi : 
+
+git branch -d Shridhar  
+git branch -d Gaurav
+
+globally branch delete karnyasathi : 
+
+git push origin --delete Shridhar 
+git push origin --delete Gaurav
+
+
+
+===================================
+
+important command :
+
+When below error occur 
+error: failed to push some refs to 'https://github.com/patilgh7/Codes.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Command:
+git pull --rebase origin main
+
+=================================================================================
+
+When error
+
+Unable to Push to Github Error 403 | git credentials windows | remote: permission to denied to 
+
+Solution :
+
+Go to search in window Credential Manager -> Windows Credential 
+
+Search github.com file and remove
+
+Then again give command : git push origin main
+
+=============================================================================
+
+
+When Error
+
+fatal couldn't find remote ref master main - Error in git - git subtree - pull or fetch error
+
+git pull --rebase origin main : When this command doesn't work 
+
+Create a new file in the global repository and try to use above pull command.
+
+
+===================================================================================
+
+Folder remove from git local repository command :
+
+git rm r Folder name
+git rm -r 00-Class
+
+then use commit command 
+
+git commit -m "Remove Folder"
+
+git push origin Gaurav
+
+
+===========================================================
+
+1) Remove untracked folder :
+
+  git clean -f folderpath
+
+2) Remove untracked file :
+
+  git clean -fx
+
+===========================================================
+
+================================================================================================================================================================================
+
+GitHub la apla code push karnyasathi simple steps : 
+
+Important Steps To Create New Repository For New Codes Commands :
+
+i) First Githhub chya account la jaun ek navin repository create kara "C Sharp Codes"
+ii) ek folder create kela local aplya D drive madhe "01-C Sharp Codes"
+iii) Commands  :  
+		1) git init   ------------ hi command git initialize karate mhanje git use karnyasathi ready karate.....(right click git bash here karun saglya command dene)
+		2) ls -a      ------------  git initialize zale ki nahi check karnyasathi ....(.git file disel)
+		3) touch name.txt  ------------  ek navin file create keli
+		4) git status  ------------  git status disel ani tyat name.txt file red madhe untracked disel
+		5) git add .   ------------  kiti pn untracked file astil tar tya track hotil
+		6) git status  ------------ ata name.txt green houn tracked mhanun status dakhavel
+		7) git commit -m "name.txt added"  --------- file commit keli and message dila
+		8) git branch --list     -------------- branch kiti ahet check kel
+		9) git branch -M main    -------------- branch ji master mahnun bracket madhe dakhavat ti ya command ne main mhanun disel
+		10)git remote add origin https://github.com/patilgh7/C-Sharp-Codes.git .......... C Sharp Code chi apan github la jaun ji repository tayar keli tyala connect karnysathi
+		11) git remote -v ......This command will show you the remote repositories associated with your local repository, along with their URLs. If "origin" is added
+
+		12)git push -u origin main ............apli name.txt apan github la push keli
+
+
+==================================================================================================================================================================================
+
+
+		1) git init   ------------ hi command git initialize karate mhanje git use karnyasathi ready karate.....(right click git bash here karun saglya command dene)
+		2) ls -a      ------------  git initialize zale ki nahi check karnyasathi ....(.git file disel)
+		3) touch Sample.txt  ------------  ek navin file create keli
+		4) git status  ------------  git status disel ani tyat name.txt file red madhe untracked disel
+		5) git add .   ------------  kiti pn untracked file astil tar tya track hotil
+		6) git status  ------------ ata name.txt green houn tracked mhanun status dakhavel
+		7) git commit -m "Sample.txt added"  --------- file commit keli and message dila
+		8) git remote add origin https://github.com/patilgh7/C-Sharp-Codes.git .......... C Sharp Code chi apan github la jaun ji repository tayar keli tyala connect karnysathi
+		9) git push -u origin main ............apli Sample.txt apan github la push kartana khalil error ala tar
+
+
+Error : 
+
+git push origin master
+To https://github.com/patilgh7/Codes-Of-ASP.NET-Core-MVC.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/patilgh7/Codes-Of-ASP.NET-Core-MVC.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+
+Solution ==>
+
+
+
+The error message is indicating that the remote repository (GitHub) contains changes that you don't have locally. This can happen when someone else has pushed changes to the repository since you last pulled or cloned it.
+
+To resolve this, you need to incorporate the changes from the remote repository into your local branch before pushing. Here are the steps:
+
+ 1)  Pull the Changes from the Remote Repository:
+
+	Command : 
+
+			git pull origin master --allow-unrelated-histories
+
+			this command will go into editor mode to quit from that mode press following keys :
+			
+			Press Esc + :wq   => this will save the file and quit.
+			
+			
+
+This command pulls changes from the remote master branch to your local branch. The --allow-unrelated-histories flag is used when the histories of the two branches have diverged.
+
+
+ 2)  Then again commit the changes : 
+
+	Command : git commit -m "Merge remote changes"
+
+
+ 3) Then again push 
+
+	Command : git push origin master
+
+
+
+
+====================================================================================================================================================
+
+
+Successful You can upload your project using following command : 
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/patilgh7/Java-Codes.git
+git push -u origin main
+
+
+
+===========================================================================================================================
+
+
+To remove git file command :
+
+rm -rf .git
+
+To check .git file is deleted or not command : 
+
+ls -a
+
+and Restart the Intellij IDE
+
+
+if you want to again intialize repository then give command : 
+
+git init
+
+git checkout -b new_branch_name
+
+==========================================================================
+
+
+How to upload whole project to bitbucket repository
+
+
+ git init
+
+ git remote add origin https://patilgh@bitbucket.org/mahesh-teople/jobportal.git
+
+ git remote -v
+
+ git status
+
+ git add .
+
+ git commit -m "First Commit"
+
+	
+ Important Note : First check bitbucket repository master branch name (master or main)
+ If It is branch name is main ...So you have create first main branch locally then you can push code to remote main branch for that command : 
+
+ git checkout -b main
+
+ git branch --list
+
+ git push -u origin main
+
+
+ If error occurs while pushing 
+
+ git push -u origin main
+ To https://bitbucket.org/mahesh-teople/jobportal.git
+ ! [rejected]        main -> main (non-fast-forward)
+ error: failed to push some refs to 'https://bitbucket.org/mahesh-teople/jobportal.git'
+ hint: Updates were rejected because the tip of your current branch is behind
+ hint: its remote counterpart. Integrate the remote changes (e.g.
+ hint: 'git pull ...') before pushing again.
+ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+ then you have to push code forcefully so command will change as below :
+
+ git push -f origin main 
+
+
+=============================================================================================
+ 
+
+ How to revert or rollback whole commit when code pushed to remote repository
+
+ 
+ Right click on Project and open git bash
+
+ 1) git log  : this command shows commit id and all history of commits ...(To come out of log Press q)
+ 2) copy commit id and give command :
+    git revert <paste here that commit id>
+
+ 3) After above command it will open vm editor 
+    Press i for insert 
+    Type new message or comment for commit in first line like :  Reverting unwanted change
+    Press Esc button and type :wq!   => It will save and quit editor.
+
+ 4) git status
+
+ 5) git push
+
+================================================================================================
+
+
+
+
+
+
+ 
